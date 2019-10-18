@@ -110,10 +110,11 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |106| Hitmonlee | ![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif) |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
 |||||
-|||||
-|||||
-|||||
-|||||
+|108| Lickitung |![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)|![Lickitung](https://img.pokemondb.net/artwork/large/lickitung.jpg)|
+|109| Koffing |![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)|![Koffing](https://img.pokemondb.net/artwork/large/koffing.jpg)|
+|110| Weezing |![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)|![Weezing](https://img.pokemondb.net/artwork/large/weezing.jpg)|
+|111| Rhyhorn |![Rock](https://vignette.wikia.nocookie.net/pokemon/images/b/b3/Type_Rock.gif)
+|![Rhyhorn](https://img.pokemondb.net/artwork/large/rhyhorn.jpg)|
 |||||
 |||||
 |||||
